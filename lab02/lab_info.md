@@ -6,6 +6,8 @@
 # Table of Contents
 1. [Constructori](#Constructori)
 2. [Referinte](#Referinte)
+3. [Exemple de intrebari pentru test](#Exemple_de_intrebari_pentru_testul_de_data_viitoare)
+
 
 # Constructori
 
@@ -272,6 +274,16 @@ Nume student: Decebal Popescu
 Media studentului: 5
 */
 ```
+## Exemple de intrebari pentru testul de data viitoare
+
+- Ce se intampla atunci cand nu avem nici un constructor generat de noi?
+- Cine se ocupa de eliberarea memoriei in java?
+- Ce tip de return are un constructor?
+- Ce specificatori de acces poate avea un constructor?
+- Ce reprezinta 'this'? 
+- Ce reprezinta 'super'?
+
+- BTW, POT SA VA PUN SI INTREBARI CAPCANA. xD 
 
 # Bafta la rezolvarea laboratorului! xD
 
