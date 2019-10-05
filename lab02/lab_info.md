@@ -250,7 +250,7 @@ public class Student {
         this.averageGrade = averageGrade;
     }
  
-    @[Override]
+    @Override
     public String toString() {
         return "Nume student: " + name + "\nMedia studentului: " + averageGrade;
     }
