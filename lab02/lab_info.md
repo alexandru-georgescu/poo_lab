@@ -13,7 +13,7 @@
 
 - Intr-o clasa se pot defini metode, dar exista un tip special de metode care sunt folosite pentru a rezolva o anumita problema, aceea de a construi obiecte. Constructori sunt metode speciale datorita rolului lor si pentru ca au o multime reguli privind declararea si utilizare.
 
-- De fiecare data cand este creat un obiect, este apelat un constructor. Pornind de la aceasta certitudine, în Java, fiecare clasa are cel putin un constructor , chiar daca programatorul nu a declarat în mod explicit unul. 
+- De fiecare data cand este creat un obiect, este apelat un constructor. Pornind de la aceasta certitudine, în Java, fiecare clasa are cel putin un constructor, chiar daca programatorul nu a declarat în mod explicit unul. 
 
 * Rolurile metodei constructor sunt:
 	- **Rolul principal** – pentru a construi obiecte, in sensul de a aloca spatiu în Heap;
