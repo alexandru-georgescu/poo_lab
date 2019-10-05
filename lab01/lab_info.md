@@ -289,7 +289,7 @@ Accesul la metodele si atributele obiectului din afara clasei, cum se vede in ex
 			//O sa intoarca true deoarce compara stringul si nu referinta
 			System.out.println(stud1.name.equals(stud2.name));
 			
-			//O sa intoarca false deoarce compara referinta iar fiecare string de acolo au adrese de memorie diferite.
+			//O sa intoarca false deoarce compara referinta iar fiecare string de acolo are o adresa de memorie diferite.
 			System.out.println(stud1.name == stud2.name);
 		
 		}
@@ -310,7 +310,7 @@ Accesul la metodele si atributele obiectului din afara clasei, cum se vede in ex
 
 
 ``` java
-	//Se metodele setName, getName etc.. se pot genera direct din ide, va arat la lab daca aveti curiozitati.
+	//Metodele setName, getName etc.. se pot genera direct din ide, va arat la lab daca aveti curiozitati.
 	//Exemplu pentru clasa Student:
 	class Student {
 		private String name;
