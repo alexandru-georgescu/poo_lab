@@ -101,7 +101,7 @@ Legat de modul de declarare a atributelor si a metodelor nu exista reguli cu pri
 1.  intr-un fisier Java, _.java_, pot fi definite mai multe clase;
 2.  intr-un fisier Java, doar o clasa poate fi definita publica;
 3.  fisierul sursa Java care contine clasa publica se are acelasi nume ca si clasa (la nivel case sensitive); clasa publica _Carte_ se gaseste in Carte.java ;
-4.  blocul unei clase este definit de { si } ;
+4.  blocul unei clase este definit de { this } ;
 5.  daca intr-un fisier sursa .java sunt definite mai multe clase, atunci prin compilarea fisierului se obtine bytecode, fisiere _.class_, pentru fiecare clasa.
 
 Pe baza sintaxei simple, se defineste o clasa simpla Java ce descrie o carte. Cartea este descrisa de atributele _pret, titlu_ si _autor_, iar comportamentul este definit de metodele _getPret()_ si _afiseaza()._
