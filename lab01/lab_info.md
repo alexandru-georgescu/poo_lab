@@ -86,7 +86,7 @@ Legat de modul de declarare a atributelor si a metodelor nu exista reguli cu pri
 4.  blocul unei clase este definit de { si } ;
 5.  daca intr-un fisier sursa .java sunt definite mai multe clase, atunci prin compilarea fisierului se obtine bytecode, fisiere _.class_, pentru fiecare clasa.
 
-Pe baza sintaxei simple, se defineste o clasa simpla Java ce descrie o carte. Cartea este descrisa de atributele _pret, titlu_ si _autor_, iar comportamentul este definit de metodele _getPret()_ si _afiseaza().
+Pe baza sintaxei simple, se defineste o clasa simpla Java ce descrie o carte. Cartea este descrisa de atributele _pret, titlu_ si _autor_, iar comportamentul este definit de metodele _getPret()_ si _afiseaza()._
 
 ``` java
 class Carte{
