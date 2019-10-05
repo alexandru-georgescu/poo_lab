@@ -275,6 +275,7 @@ Media studentului: 5
 
 # Bafta la rezolvarea laboratorului! xD
 
+
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="300" height="300" align="middle">
 
 
