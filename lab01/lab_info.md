@@ -51,9 +51,9 @@ Poate sa contina:
 
 **nume clasa** – numele clasei definit de programator; numele clasei trebuie sa respecte aceleasi conventii de nume ca si orice variabila (post variabile)
 
-**extends** – permite derivarea dintr-o clasa de baza (mai multe in tutorialul despre derivare/mostenire)
+**extends** – permite derivarea dintr-o clasa de baza (mai multe in laboratorul despre derivare/mostenire)
 
-**implements** – permite derivarea din una sau mai multe interfete (mai multe in tutorialul despre interfete)
+**implements** – permite derivarea din una sau mai multe interfete (mai multe in laboratorul despre interfete)
 
 La modul cel mai simplu, sintaxa necesara definirii unei clase este:
 ``` java
