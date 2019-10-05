@@ -6,15 +6,14 @@
 2. [Cum se defineste o clasa in Java](#Cum_se_defineste_o_clasa_in_Java)
 3. [Cum se construiesc obiecte](#Cum_se_construiesc_obiecte)
 4. [Cum se acceseaza atributele si metodele](#Cum_se_acceseaza_atributele_si_metodele)
-4. [Lab 01 rezolvat](#Lab_01_rezolvat)
-5. [Exemple de intrebari pentru primul test(#Exemple_de intrebari_pentru_primul_test)
+5. [Lab 01 rezolvat](#Lab_01_rezolvat)
+6. [Exemple de intrebari pentru primul test(#Exemple_de intrebari_pentru_primul_test)
 
 
 
 ## Inainte de toate cam asa a fost primul lab :))
 
-<img src="
-https://media.giphy.com/media/l0ErAnVeA8XTIj1VC/giphy.gif" height="300" height="300" align="middle">
+<img src="https://media.giphy.com/media/l0ErAnVeA8XTIj1VC/giphy.gif" height="300" height="300" align="middle">
 
 
 ## Dar acum hai sa incepem
