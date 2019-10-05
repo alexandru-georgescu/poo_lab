@@ -274,7 +274,8 @@ Nume student: Decebal Popescu
 Media studentului: 5
 */
 ```
-## Exemple de intrebari pentru testul de data viitoare
+
+# Exemple de intrebari pentru testul de data viitoare
 
 - Ce se intampla atunci cand nu avem nici un constructor generat de noi?
 - Cine se ocupa de eliberarea memoriei in java?
