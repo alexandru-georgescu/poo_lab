@@ -21,7 +21,7 @@
 
 # Clase
 
-- Clasele reprezinta principiile de baza ale programarii orientate obiect. Clasele reprezinta notiuni abstracte, povesti, modele (blueprints), ce descriu: 
+- Clasele reprezinta principiile de baza ale programarii orientate obiect. Clasele sunt notiuni abstracte, povesti, modele (blueprints), ce descriu: 
 	* caracteristicile, atributele unui obiect; reprezinta ceea ce stie sau ce este obiectul;
 	* ce stie sa faca obiectul, comportamentul acestuia descris de metodele sale;
 
