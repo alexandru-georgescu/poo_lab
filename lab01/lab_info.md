@@ -167,7 +167,7 @@ public class TestCarte {
     }
 }
 ```
-Accesul la metodele si atributele obiectului din afara clasei, cum se vede in exemplul anterior in care obiectul carte este folosit in clasa TestCarte, poate fi controlat prin modificatorii de acces (public, private, protected vor fi analizati in detaliu in alt post).
+Accesul la metodele si atributele obiectului din afara clasei, cum se vede in exemplul anterior in care obiectul carte este folosit in clasa TestCarte, poate fi controlat prin modificatorii de acces (public, private, protected vor fi analizati in detaliu in alt laborator).
 
 # Lab_01_rezolvat
 
