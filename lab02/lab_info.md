@@ -217,7 +217,7 @@ public class Carte {
 
 	-   a se face `diferenta` între câmpuri ale obiectului curent și argumente care au același nume
     
-	-   a pasa ca `argument` unei metode o referință către obiectul curent (vezi linia (1) din exemplul următor)
+	-   a pasa ca `argument` unei metode o referință către obiectul curent
     
 	-   a facilita apelarea `constructorilor` din alți constructori, evitându-se astfel replicarea unor bucăți de cod (vezi exemplul de la constructori)
 - Exemplu: 
@@ -229,7 +229,7 @@ class Student {
     private Group group;
  
     public Student(Group group, String name, int averageGrade) {
-        this.group        = group; // (2)
+        this.group        = group;
         this.name         = name;
         this.averageGrade = averageGrade;
     }
