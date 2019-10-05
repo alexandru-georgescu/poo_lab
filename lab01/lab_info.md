@@ -7,7 +7,7 @@
 3. [Cum se construiesc obiecte](#Cum_se_construiesc_obiecte)
 4. [Cum se acceseaza atributele si metodele](#Cum_se_acceseaza_atributele_si_metodele)
 5. [Lab 01 rezolvat](#Lab_01_rezolvat)
-6. [Exemple de intrebari pentru primul test(#Exemple_de intrebari_pentru_primul_test)
+6. [Exemple de intrebari pentru primul test](#Exemple_de_intrebari_pentru_primul_test)
 
 
 
@@ -345,7 +345,7 @@ Accesul la metodele si atributele obiectului din afara clasei, cum se vede in ex
 
 ```
 
-# Exemple de intrebari pentru primul test
+# Exemple_de_intrebari_pentru_primul_test
 
 - Ce reprezinta o clasa in java?
 - Ce poate sa contina o clasa in java?
