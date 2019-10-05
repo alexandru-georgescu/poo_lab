@@ -284,7 +284,7 @@ Media studentului: 5
 - Ce reprezinta 'this'? 
 - Ce reprezinta 'super'?
 
-- BTW, POT SA VA PUN SI INTREBARI CAPCANA. xD 
+- Sunt sanse sa va pun si intrebari capcana, depinde cat de mult m-am enervat la munca pana sa vin la lab. :)) 
 
 # Bafta la rezolvarea laboratorului! xD
 
