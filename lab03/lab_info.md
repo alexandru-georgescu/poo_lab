@@ -68,7 +68,7 @@ class Year {
 
 ```
 
-## Uramri
+## Deci..
 
 
 - Agregarea (aggregation) - obiectul-container poate exista și în absența obiectelor agregate de aceea este considerată o asociere slabă (weak association). În exemplul de mai sus, un raft de bibliotecă poate exista și fără cărți.
